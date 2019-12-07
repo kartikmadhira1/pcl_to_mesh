@@ -1,5 +1,0 @@
-/home/kartikmadhira/github/pcl_to_mesh/build/CMakeFiles/edit_cache.dir
-/home/kartikmadhira/github/pcl_to_mesh/build/CMakeFiles/greedy_projection.dir
-/home/kartikmadhira/github/pcl_to_mesh/build/CMakeFiles/reconstruct.dir
-/home/kartikmadhira/github/pcl_to_mesh/build/CMakeFiles/surf_reconstruct.dir
-/home/kartikmadhira/github/pcl_to_mesh/build/CMakeFiles/rebuild_cache.dir
